@@ -1,2 +1,7 @@
 Testando uma atualização
 de arquivo A!
+
+a
+b
+c
+d
